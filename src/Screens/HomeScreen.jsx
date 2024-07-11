@@ -1,10 +1,14 @@
 import React from 'react';
 import Header from '../Components/Header';
+import Hero from '../Components/Hero';
+
 
 function HomeScreen() {
   return (
-    <div>
+    
+    <div className='font-[Poppins]'>
         <Header/>
+        <Hero/>
     </div>
   )
 }
