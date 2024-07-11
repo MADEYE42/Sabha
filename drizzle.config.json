@@ -1,0 +1,10 @@
+{
+    "dialect": "postgresql",
+    "out": "./migrations-folder",
+    "schema": "./utils/schema.js",
+    "breakpoints": false,
+    "dbCredentials":{
+        "url":"postgresql://neondb_owner:MtsXBR1r5OAN@ep-summer-bonus-a14137d8.ap-southeast-1.aws.neon.tech/top-20-ideas?sslmode=require"
+    }
+  }
+  
